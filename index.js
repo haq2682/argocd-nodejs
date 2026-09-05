@@ -11,7 +11,7 @@ const server = http.createServer((req, res) => {
         <body style="font-family: sans-serif; text-align: center; margin-top: 100px;">
             <h1>Node.js GitOps Demo</h1>
             <h2>Version ${VERSION}</h2>
-	    <p>Hello World v2</p>
+	        <p>Hello World v1</p>
         </body>
         </html>
     `);
